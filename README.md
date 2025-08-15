@@ -5,3 +5,4 @@
 1. [x] 1. Visão Geral do Curso
 2. [x] 2. Repositório do Curso & Apostila
 3. [x] 3. Usando o Terminal
+4. [x] 4. Terminais
