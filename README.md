@@ -3,3 +3,4 @@
 ## Seção 1: Introdução
 
 1. [x] 1. Visão Geral do Curso
+2. [x] 2. Repositório do Curso & Apostila
