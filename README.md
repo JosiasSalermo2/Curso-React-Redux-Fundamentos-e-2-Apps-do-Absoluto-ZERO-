@@ -10,3 +10,7 @@
 6. [x] 6. Atenção ao baixar o MongoDB
 7. [x] 7. Resolver problema de instalação de dependências
 8. [x] 8. Configuração do Ambiente (Windows)
+
+## Seção 2: Fundamentos React
+
+11. [x] 11. Introdução do Módulo
