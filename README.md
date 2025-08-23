@@ -9,3 +9,4 @@
 5. [x] 5. Aviso importante aos usuários de Windows
 6. [x] 6. Atenção ao baixar o MongoDB
 7. [x] 7. Resolver problema de instalação de dependências
+8. [x] 8. Configuração do Ambiente (Windows)
