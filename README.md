@@ -17,3 +17,4 @@
 12. [x] 12. Criando Projeto
 13. [x] 13. Exibindo String
 14. [x] 14. Conhecendo JSX
+15. [x] 15. Carregando CSS
