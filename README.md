@@ -15,3 +15,4 @@
 
 11. [x] 11. Introdução do Módulo
 12. [x] 12. Criando Projeto
+13. [x] 13. Exibindo String
