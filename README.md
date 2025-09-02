@@ -19,3 +19,4 @@
 14. [x] 14. Conhecendo JSX
 15. [x] 15. Carregando CSS
 16. [x] 16. Primeiro Componente #01
+17. [x] 17. Primeiro Componente #02
